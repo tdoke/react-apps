@@ -1,0 +1,9 @@
+.App .MuiAppBar-colorPrimary-8 {
+  background-color: #04B486;
+}
+
+.App .toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+} 

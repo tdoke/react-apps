@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleExpansionPanel should render ArticleExpansionPanel 1`] = `ShallowWrapper {}`;

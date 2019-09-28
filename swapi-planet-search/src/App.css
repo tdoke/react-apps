@@ -1,0 +1,10 @@
+.App {
+  box-sizing: border-box;
+}
+.App .text-field-error {
+  color: red;
+  font-size: 70%;
+}
+
+
+

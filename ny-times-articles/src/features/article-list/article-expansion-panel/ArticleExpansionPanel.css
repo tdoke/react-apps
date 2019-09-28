@@ -1,0 +1,35 @@
+.article-expansion-panel-container {
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
+
+.article-expansion-panel-container:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.article-expansion-panel-container:nth-of-type(1) {
+  margin: 0;
+  padding-top: 2rem;
+}
+
+.article-expansion-panel-container .container__centerItems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-expansion-panel-container p {
+  margin: 0;
+}
+
+.article-expansion-panel-container .published-date {
+  margin-top: 0.5rem;
+}
+
+.article-expansion-panel-container .article-by {
+  margin-top: 0.5rem;
+  color: #585858;
+}
